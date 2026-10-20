@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-garg--kshitij-0A66C2?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/garg-kshitij)
 [![Unified Live Apps Hub](https://img.shields.io/badge/Live_Apps_Hub-Explore_All_Demos-00E5FF?style=for-the-badge&logo=google-chrome)](https://kshitij-garg.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-Download_PDF-10B981?style=for-the-badge&logo=adobeacrobatreader)](https://kshitij-garg.github.io/assets/Kshitij_Garg_Resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/kshitij-garg)
 [![Education](https://img.shields.io/badge/Education-IIM%20Kozhikode%20%7C%20IIIT%20Allahabad-orange?style=for-the-badge)](#-academic--professional-pedigree)
 
@@ -113,4 +112,3 @@ A complete timeline of open-source software, quantitative systems, and hardware 
 - 💼 **LinkedIn:** [linkedin.com/in/garg-kshitij](https://in.linkedin.com/in/garg-kshitij)
 - 🌐 **GitHub:** [@kshitij-garg](https://github.com/kshitij-garg)
 - 🚀 **Unified Live Demos Portal:** [https://kshitij-garg.github.io/](https://kshitij-garg.github.io/)
-- 📄 **Executive Resume:** [Download PDF](https://kshitij-garg.github.io/assets/Kshitij_Garg_Resume.pdf)
