@@ -4,9 +4,16 @@
 *Transforming Complex Systems via AI-First Automation, Systems Performance & 0-to-1 Product Delivery*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-garg--kshitij-0A66C2?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/garg-kshitij)
-[![Portfolio](https://img.shields.io/badge/Live_Demos-Explore-00E5FF?style=for-the-badge&logo=google-chrome)](https://kshitij-garg.github.io/quant-rebalance/)
+[![Unified Live Apps Hub](https://img.shields.io/badge/Live_Apps_Hub-Explore_All_Demos-00E5FF?style=for-the-badge&logo=google-chrome)](https://kshitij-garg.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-10B981?style=for-the-badge&logo=adobeacrobatreader)](https://kshitij-garg.github.io/assets/Kshitij_Garg_Resume.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/kshitij-garg)
 [![Education](https://img.shields.io/badge/Education-IIM%20Kozhikode%20%7C%20IIIT%20Allahabad-orange?style=for-the-badge)](#-academic--professional-pedigree)
+
+---
+
+> 🚀 **Unified Live Applications & Systems Hub:**  
+> Experience all flagship platforms running live in your browser (Sony BRAVIA 4K Apple TV Simulator with Web Audio API, QuantRebalance Portfolio Engine, Monitorian 2.0 Display Systems, and Hardware UART/SHA-1 Accelerator) via one unified portal:  
+> **👉 [https://kshitij-garg.github.io/](https://kshitij-garg.github.io/)**
 
 ---
 
@@ -22,14 +29,14 @@ My career spans leading complex technical transformations across **Global Travel
 
 ---
 
-## 🏆 Featured Flagship Systems
+## 🏆 Featured Flagship Systems & Live Simulators
 
-| Platform | Category | Impact & Technical Highlights |
-| :--- | :--- | :--- |
-| **[Sony BRAVIA 4K Debloater & Launcher](https://github.com/kshitij-garg/sony-bravia-vh2-debloater)** | **Embedded Systems & Consumer OS** | Re-engineered Google TV for Sony 4K Smart TVs into an ultra-snappy, zero-telemetry Apple TV-style media hub. Custom 328 KB Leanback launcher, Linux kernel `cgroup v2` freezer, in-memory tactile acoustic synthesis, and 100% reversible recovery architecture. |
-| **[QuantRebalance Portfolio Engine](https://github.com/kshitij-garg/quant-rebalance)** | **FinTech & Quantitative SaaS** | Institutional-grade multi-strategy equity & ETF portfolio rebalancing platform for Indian markets. 100% client-side privacy architecture (zero server storage), mathematical drift optimization, and tax-loss harvesting logic.<br>👉 **[Live Web Application](https://kshitij-garg.github.io/quant-rebalance/)** |
-| **[Monitorian 2.0](https://github.com/kshitij-garg/Monitorian-2.0)** | **Desktop Systems & Global Utility** | Windows multi-monitor hardware brightness & contrast controller via DDC/CI I2C protocols. Features global user hotkeys, scheduled day/night transitions, single-file portable zero-install packaging, and 28 global language localizations. |
-| **[Hardware UART & SHA-1 Crypto Core](https://github.com/kshitij-garg/UART-Verilog)** | **Digital Logic & Hardware Design** | Synthesizable Verilog HDL implementation of a full-duplex UART transceiver with a dedicated pipelined 80-round SHA-1 hardware cryptographic hashing accelerator. |
+| Platform | Category | Impact & Technical Highlights | Live Demos |
+| :--- | :--- | :--- | :---: |
+| **[Sony BRAVIA 4K Debloater & Launcher](https://github.com/kshitij-garg/sony-bravia-vh2-debloater)** | **Embedded Systems & Consumer OS** | Re-engineered Google TV for Sony 4K Smart TVs into an ultra-snappy, zero-telemetry Apple TV-style media hub. Custom 328 KB Leanback launcher, Linux kernel `cgroup v2` freezer, Web Audio API acoustic tap synthesis, and Move Mode. Slashed RAM from 420MB to 18MB (95.7% saved). | [🎮 Live TV Simulator](https://kshitij-garg.github.io/#tv-launcher)<br>[📺 Standalone Fullscreen](https://kshitij-garg.github.io/tv-simulator/) |
+| **[QuantRebalance Portfolio Engine](https://github.com/kshitij-garg/quant-rebalance)** | **FinTech & Quantitative SaaS** | Institutional-grade multi-strategy equity & ETF portfolio rebalancing platform. 100% client-side privacy architecture (zero server storage), mathematical drift optimization, and tax-loss harvesting logic. | [📊 Live Rebalance Hub](https://kshitij-garg.github.io/#quant-rebalance)<br>[🚀 Production Web App](https://kshitij-garg.github.io/quant-rebalance/) |
+| **[Monitorian 2.0](https://github.com/kshitij-garg/Monitorian-2.0)** | **Desktop Systems & Global Utility** | Windows multi-monitor hardware brightness & contrast controller via DDC/CI I2C protocols. 300,000+ active enterprise users. Features global user hotkeys, scheduled day/night transitions, middle-click instant blackout, and 28 language localizations. | [🖥️ Live Display Simulator](https://kshitij-garg.github.io/#monitorian)<br>[⚙️ Standalone Fullscreen](https://kshitij-garg.github.io/monitorian-simulator/) |
+| **[Hardware UART & SHA-1 Crypto Core](https://github.com/kshitij-garg/UART-Verilog)** | **Digital Logic & Hardware Design** | Synthesizable Verilog HDL implementation of a full-duplex UART transceiver coupled with an 80-round SHA-1 hardware cryptographic hashing accelerator. Achieved 100 MHz timing closure on Artix-7 FPGA and 622 Mbps throughput. | [⚡ Live Oscilloscope & Digest](https://kshitij-garg.github.io/#uart)<br>[🔬 Standalone Fullscreen](https://kshitij-garg.github.io/uart-simulator/) |
 
 ---
 
@@ -89,14 +96,14 @@ A complete timeline of open-source software, quantitative systems, and hardware 
 
 | Year | Project / Platform | Domain & Stack | Focus & Impact | Links |
 | :---: | :--- | :--- | :--- | :---: |
-| **2026** | **Sony BRAVIA 4K Debloater & Apple TV Launcher** | Android TV, Java, Linux Kernel, PowerShell | Replaces bloated stock Google TV interface with a custom native 328 KB Leanback launcher, Linux `cgroup v2` freezer, and zero-telemetry debloater toolkit. | [Repository](https://github.com/kshitij-garg/sony-bravia-vh2-debloater) |
-| **2026** | **Monitorian 2.0** | Windows Desktop, C#, WPF, Win32, DDC/CI | Multi-monitor hardware display controller with global hotkeys, scheduled day/night mode, and single-file portable deployment across 28 languages. | [Repository](https://github.com/kshitij-garg/Monitorian-2.0) |
+| **2026** | **Sony BRAVIA 4K Debloater & Apple TV Launcher** | Android TV, Java, Linux Kernel, PowerShell | Replaces bloated stock Google TV interface with a custom native 328 KB Leanback launcher, Linux `cgroup v2` freezer, Web Audio acoustic synthesis, and zero-telemetry debloater toolkit. | [Repository](https://github.com/kshitij-garg/sony-bravia-vh2-debloater) • [Live Simulator](https://kshitij-garg.github.io/#tv-launcher) |
+| **2026** | **Monitorian 2.0** | Windows Desktop, C#, WPF, Win32, DDC/CI | Multi-monitor hardware display controller with global hotkeys, scheduled day/night mode, and single-file portable deployment across 28 languages. | [Repository](https://github.com/kshitij-garg/Monitorian-2.0) • [Live Simulator](https://kshitij-garg.github.io/#monitorian) |
 | **2026** | **QuantRebalance Web Engine** | FinTech, Vanilla JS, HTML5/CSS3, Yahoo Finance | Zero-backend institutional portfolio rebalancing tool for Indian equities and ETFs with zero capital-gains tax smart cash deployment. | [Repository](https://github.com/kshitij-garg/quant-rebalance) • [Live App](https://kshitij-garg.github.io/quant-rebalance/) |
 | **2026** | **Stonks Algorithmic Core** | FinTech, Python, Statistical Backtesting | Companion quantitative engine featuring multi-asset risk parity modeling, drift tolerance bands, and automated portfolio rebalancing backtesters. | [Repository](https://github.com/kshitij-garg/stonks) |
 | **2021** | **CoWIN Vaccine Availability Scheduler** | Automation, Python, REST APIs | Multi-threaded real-time vaccine slot monitoring and notification engine built during public health peak demand. | [Repository](https://github.com/kshitij-garg/cowin_alert) |
 | **2018** | **Financial Ledger ETL & Reconciliation** | Enterprise FinTech, Oracle DB, SQL, BI | Automated data pipelines and financial reporting infrastructure for general ledger reconciliation at NatWest. | *Enterprise Platform* |
-| **2017** | **Interactive Developer Web Platform** | Frontend, HTML5, CSS3, JavaScript | Lightweight web portfolio and interactive project landing page. | [Repository](https://github.com/kshitij-garg/garginator.github.io) |
-| **2016** | **Full-Duplex UART & SHA-1 Cryptographic Accelerator** | Hardware Design, Verilog HDL, Modelsim | Synthesizable hardware digital design featuring full-duplex asynchronous serial transceiver coupled with an 80-round SHA-1 hardware hashing pipeline. | [Repository](https://github.com/kshitij-garg/UART-Verilog) |
+| **2017** | **Interactive Developer Web Platform** | Frontend, HTML5, CSS3, JavaScript | Lightweight web portfolio and interactive project landing page. | [Repository](https://github.com/kshitij-garg/kshitij-garg.github.io) • [Unified Hub](https://kshitij-garg.github.io/) |
+| **2016** | **Full-Duplex UART & SHA-1 Cryptographic Accelerator** | Hardware Design, Verilog HDL, Modelsim | Synthesizable hardware digital design featuring full-duplex asynchronous serial transceiver coupled with an 80-round SHA-1 hardware hashing pipeline. | [Repository](https://github.com/kshitij-garg/UART-Verilog) • [Live Visualizer](https://kshitij-garg.github.io/#uart) |
 | **2016** | **Algorithmic Solutions & Data Structures** | Computer Science, C++, Algorithms | Comprehensive algorithmic challenge solutions covering dynamic programming, graph theory, and advanced numerical computation. | [Repository](https://github.com/kshitij-garg/Code) |
 
 ---
@@ -105,4 +112,5 @@ A complete timeline of open-source software, quantitative systems, and hardware 
 
 - 💼 **LinkedIn:** [linkedin.com/in/garg-kshitij](https://in.linkedin.com/in/garg-kshitij)
 - 🌐 **GitHub:** [@kshitij-garg](https://github.com/kshitij-garg)
-- 💻 **Live Product Demos:** [QuantRebalance Web App](https://kshitij-garg.github.io/quant-rebalance/)
+- 🚀 **Unified Live Demos Portal:** [https://kshitij-garg.github.io/](https://kshitij-garg.github.io/)
+- 📄 **Executive Resume:** [Download PDF](https://kshitij-garg.github.io/assets/Kshitij_Garg_Resume.pdf)
