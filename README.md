@@ -3,7 +3,7 @@
 ### **Technical Product Manager / Technical Project Manager**
 *Bridging Deep Systems Engineering, Quantitative FinTech, and 0-to-1 Product Delivery.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-garg--kshitij-0A66C2?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/garg-kshitij)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/kshitij-garg)
 [![Portfolio](https://img.shields.io/badge/Live_Demos-Explore-00E5FF?style=for-the-badge&logo=google-chrome)](https://kshitij-garg.github.io/quant-rebalance/)
 
@@ -73,5 +73,5 @@ mindmap
 ## 📬 Connect With Me
 
 - 🌐 **GitHub:** [@kshitij-garg](https://github.com/kshitij-garg)
-- 💼 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
+- 💼 **LinkedIn:** [linkedin.com/in/garg-kshitij](https://in.linkedin.com/in/garg-kshitij)
 - 💻 **Live Product Demos:** [QuantRebalance Engine](https://kshitij-garg.github.io/quant-rebalance/)
